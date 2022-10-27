@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 255, 255);
+}
+tr th{
+    padding: 40px;
+    color: rgb(7, 0, 0);
+    font-weight: 700;
+    border: 1px solid;
+    font-size: 17px;
+    text-align: center;
+
+
+}
+.forh3{
+    color: black;
+    text-align: center;
+    padding: 20px;
+    font-weight: 700;
+    font-size: 24px;
+}
+tr:hover {background-color: rgb(168, 110, 62);}
+
+table{
+    border: 3px solid;
+    width: 100%;
+    margin-top: 50px;
+    
+}
+thead{
+    background-color:  rgb(168, 110, 62);
+
+}
+td{
+    padding: 44px;
+    text-align: center;
+
+
+}
+.mm{
+    text-align: center;
+
+    border: 1px solid;
+    font-weight: 500;
+    font-size: 20px;
+
+}
+.n-div{
+    color: black;
+}
